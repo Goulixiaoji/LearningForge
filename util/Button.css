@@ -12,3 +12,13 @@ button {
   transition:0.2s;
   background:rgba(0,0,0,0);   
 }
+
+.oneThrid {
+  width: 33%;
+  height: 50%;
+}
+
+.twoThrids {
+  width: 66%;
+  htight: 50%;
+}
